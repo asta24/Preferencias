@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+    <string name="et1">Ingrese su email</string>
+    <string name="boton_guardar">Guardar</string>
+</resources>
